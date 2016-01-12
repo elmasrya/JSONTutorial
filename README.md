@@ -26,6 +26,6 @@ This is a simple testing tutorial using HTML, CSS, JavaScript, JSON, AJAX, and P
 
 ##Tutorial 3
 ###Objectives:
-- Objective 1:
-- Objective 2:
-- Objective 3:
+- Use php's header() function to set content type to JSON
+- Use php's file_get_contents() to read a static JSON file
+- Make PHP echo JSON data back to your Ajax request
