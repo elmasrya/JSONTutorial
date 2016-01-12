@@ -22,7 +22,7 @@ var obj4 = {u1:obj1,
             u2:obj2,
             u3:obj3 };
 
-document.write(obj4.u1.user);
+
 $('#top').html('<h1>' + obj4.u1.user + '</h1>');
 
 
@@ -32,4 +32,4 @@ var meats = ["beef", "pork", "chicken"];
 var fruits = ["apple", "orange", "grapes"];
 var obj5 = {arry1:meats,
             arry2: fruits};
-$('#middle').html('<h1>' + obj5.arry1[1] + '</h1>')
+$('#rowOne').html('<h1>' + obj5.arry1[1] + '</h1>')

@@ -3,8 +3,14 @@
   border:solid;
   text-align:center;
 }
-#middle{
+#rowOne{
   background-color: blue;
+  border:solid;
+  text-align:center;
+}
+
+#rowTwo {
+  background-color: green;
   border:solid;
   text-align:center;
 }

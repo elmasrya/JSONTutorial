@@ -19,9 +19,10 @@ This is a simple testing tutorial using HTML, CSS, JavaScript, JSON, AJAX, and P
 
 ##Tutorial 2
 ###Objectives:
-- Create and place .json files
-- Objective 2:
-- Objective 3:
+- Create and place .json files on your live web server
+- Make an Ajax request that returns the .json file data
+- Parse the data from that .json file back in JavaScript
+- Loop over all incoming objects for slim efficient code
 
 ##Tutorial 3
 ###Objectives:
